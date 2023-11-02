@@ -16,38 +16,38 @@ Welcome to the Flutter Review the App repository! This app is designed to collec
 <p>Here are some screenshots of the Flutter Review the App in action:</p>
 
 <p><em>Users can rate different aspects of the app by answering a series of questions.</em></p>
-<img src="screenshots/accomod.png" width="400">
+<img src="assets/screenshots/accomod.png" width="400">
 
 <p><strong>Authentication Screen</strong></p>
 <p>User authentication screen for secure access.</p>
-<img src="screenshots/authentication.png" width="400">
+<img src="assets/screenshots/authentication.png" width="400">
 
 <p><strong>Currency Screen</strong></p>
 <p>User can select their preferred currency for calculations.</p>
-<img src="screenshots/currency.png" width="400">
+<img src="assets/screenshots/currency.png" width="400">
 
 <p><strong>End Screen</strong></p>
 <p>Screen displayed at the end of the review process.</p>
-<img src="screenshots/end.png" width="400">
+<img src="assets/screenshots/end.png" width="400">
 
 <p><strong>Expense Screen</strong></p>
 <p>User can rate the expense management feature of the app.</p>
-<img src="screenshots/expense.png" width="400">
+<img src="assets/screenshots/expense.png" width="400">
 
 <p><strong>Experience Screen</strong></p>
 <p>User can rate their overall experience with the app.</p>
-<img src="screenshots/experience.png" width="400">
+<img src="assets/screenshots/experience.png" width="400">
 
 <p><strong>Group Chat Screen</strong></p>
 <p>Screen showing the group chat feature of the app.</p>
-<img src="screenshots/grpChat.png" width="400">
+<img src="assets/screenshots/grpChat.png" width="400">
 
 <p><strong>Location Screen</strong></p>
 <p>User can rate the accuracy of the location feature.</p>
-<img src="screenshots/location.png" width="400">
+<img src="assets/screenshots/location.png" width="400">
 
 <p><strong>Offline Mode Screen</strong></p>
-<img src="screenshots/offline.png" width="400">
+<img src="assets/screenshots/offline.png" width="400">
 
 ## Getting Started
 
